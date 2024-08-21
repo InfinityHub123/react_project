@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Classic Burger",
+        "ingredients": [
+            "Beef Patty",
+            "Cheese",
+            "Lettuce",
+            "Tomato",
+            "Pickles",
+            "Bun"
+        ],
+        "flavorProfile": "savory",
+        "veganFriendly": true,
+        "isInStock": 0,
+        "image": "https://burgersapi.uk/images/classicBurger.png",
+        "price": 7.99
+    },
+    {
+        "name": "Cheese Burger",
+        "ingredients": [
+            "Beef Patty",
+            "Cheese",
+            "Lettuce",
+            "Tomato",
+            "Bun"
+        ],
+        "flavorProfile": "savory",
+        "veganFriendly": false,
+        "isInStock": 30,
+        "image": "https://burgersapi.uk/images/cheeseBurger.png",
+        "price": 8.49
+    },
+    {
+        "name": "Bacon Burger",
+        "ingredients": [
+            "Beef Patty",
+            "Bacon",
+            "Cheese",
+            "Lettuce",
+            "Tomato",
+            "Bun"
+        ],
+        "flavorProfile": "savory",
+        "veganFriendly": false,
+        "isInStock": 15,
+        "image": "https://burgersapi.uk/images/baconBurger.png",
+        "price": 8.99
+    },
+    {
+        "name": "BBQ Burger",
+        "ingredients": [
+            "Beef Patty",
+            "BBQ Sauce",
+            "Cheese",
+            "Onion Rings",
+            "Bun"
+        ],
+        "flavorProfile": "savory",
+        "veganFriendly": false,
+        "isInStock": 10,
+        "image": "https://burgersapi.uk/images/bbqBurger.png",
+        "price": 9.49
+    },
+    {
+        "name": "Spicy Burger",
+        "ingredients": [
+            "Spicy Beef Patty",
+            "Pepper Jack Cheese",
+            "Jalapeños",
+            "Lettuce",
+            "Tomato",
+            "Bun"
+        ],
+        "flavorProfile": "spicy",
+        "veganFriendly": false,
+        "isInStock": 12,
+        "image": "https://burgersapi.uk/images/spicyBurger.png",
+        "price": 8.99
+    },
+    {
+        "name": "Veggie Burger",
+        "ingredients": [
+            "Veggie Patty",
+            "Lettuce",
+            "Tomato",
+            "Pickles",
+            "Vegan Bun"
+        ],
+        "flavorProfile": "savory",
+        "veganFriendly": true,
+        "isInStock": 18,
+        "image": "https://burgersapi.uk/images/veggieBurger.png",
+        "price": 7.49
+    },
+    {
+        "name": "Turkey Burger",
+        "ingredients": [
+            "Turkey Patty",
+            "Lettuce",
+            "Tomato",
+            "Cranberry Sauce",
+            "Whole Wheat Bun"
+        ],
+        "flavorProfile": "savory",
+        "veganFriendly": false,
+        "isInStock": 15,
+        "image": "https://burgersapi.uk/images/turkeyBurger.png",
+        "price": 8.29
+    },
+    {
+        "name": "Lamb Burger",
+        "ingredients": [
+            "Lamb Patty",
+            "Feta Cheese",
+            "Arugula",
+            "Tomato",
+            "Bun"
+        ],
+        "flavorProfile": "savory",
+        "veganFriendly": false,
+        "isInStock": 10,
+        "image": "https://burgersapi.uk/images/lambBurger.png",
+        "price": 9.99
+    },
+    {
+        "name": "Mushroom Swiss Burger",
+        "ingredients": [
+            "Beef Patty",
+            "Swiss Cheese",
+            "Mushrooms",
+            "Lettuce",
+            "Bun"
+        ],
+        "flavorProfile": "savory",
+        "veganFriendly": false,
+        "isInStock": 14,
+        "image": "https://burgersapi.uk/images/mushroomSwissBurger.png",
+        "price": 9.29
+    },
+    {
+        "name": "Rib Burger",
+        "ingredients": [
+            "Rib Meat",
+            "BBQ Sauce",
+            "Onion Rings",
+            "Coleslaw",
+            "Brioche Bun"
+        ],
+        "flavorProfile": "savory",
+        "veganFriendly": false,
+        "isInStock": 10,
+        "image": "https://burgersapi.uk/images/ribBurger.png",
+        "price": 10.49
+    },
+    {
+        "name": "Chicken Burger",
+        "ingredients": [
+            "Grilled Chicken Breast",
+            "Lettuce",
+            "Tomato",
+            "Mayo",
+            "Whole Grain Bun"
+        ],
+        "flavorProfile": "savory",
+        "veganFriendly": false,
+        "isInStock": 22,
+        "image": "https://burgersapi.uk/images/chickenBurger.png",
+        "price": 8.19
+    }
+]
